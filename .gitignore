@@ -1,0 +1,17 @@
+# 模型文件 (各种后缀都加上)
+*.ckpt
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# 压缩包
+*.zip
+*.rar
+*.tar
+*.gz
+*.pdf
+# 数据集和缓存
+data/
+__pycache__/
+.ipynb_checkpoints/
